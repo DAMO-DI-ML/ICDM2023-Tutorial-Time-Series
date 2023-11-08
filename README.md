@@ -95,10 +95,10 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
 
 
 
-<img align="left" src="files/weiqi.jpeg" width="150" > **[Weiqi Chen]()** is currently an engineer at DAMO Academy-Decision Intelligence Lab at Hangzhou, China. He received B.S. from Xi'an Jiaotong University and M.S. from Zhejiang University in computer Science an Technology. His research interest is on time series analysis, with focusing on time series forecasting and time series anomaly detection with related applications, e.g., electricity forecasting and weather prediction.
+<img align="left" src="files/weiqi.jpeg" width="150" > **[Weiqi Chen]()** is currently an engineer at DAMO Academy-Decision Intelligence Lab at Hangzhou, China. He received B.S. from Xi'an Jiaotong University and M.S. from Zhejiang University in computer Science an Technology. His research interest includes data mining, machine learning, and Graph Neural Networks, with a focus on time series analysis like time series forecasting and time series anomaly detection, as well as their related applications, e.g., electricity forecasting and weather prediction.
 
 
-<img align="left" src="files/bingqing.jpeg" width="150"> **[Bingqing Peng]()** is a senior engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. She received B.S. from Nanjing University with major in Mathematics and M.S in Statistics from University of Washington Seattle. Her research includes data mining, machine learning, and Graph Neural Networks, with a focus on time series analysis in industrial applications in renewable energy forecasting and weather forecasting.
+<img align="left" src="files/bingqing.jpeg" width="150"> **[Bingqing Peng]()** is a senior engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. She received B.S. from Nanjing University with major in Mathematics and M.S in Statistics from University of Washington Seattle. Her research includes data mining and machine learning, with a focus on time series analysis in industrial applications in renewable energy forecasting and weather forecasting.
 
 
 

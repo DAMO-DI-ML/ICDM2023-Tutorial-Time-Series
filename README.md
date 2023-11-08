@@ -98,7 +98,7 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
 <img align="left" src="files/weiqi.jpeg" width="170" > **[Weiqi Chen]()** is an engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. He received B.S. from Xi'an Jiaotong University and M.S. from Zhejiang University in computer Science an Technology. His research interest is on time series forecasting and anomaly detection with related applications, e.g., electricity forecasting and weather prediction.
 
 
-<img align="left" src="files/bingqing.jpeg" width="170" > **[Bingqing Peng]()** is a senior engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. She received B.S. from Nanjing University with major in Mathematics and M.S in Statistics from University of Washington Seattle. Her research is focus on time series analysis and machine learning, with industrial applications in renewable energy forecasting and weather forecasting.
+<img align="left" src="files/bingqing.jpeg" width="170" hight="120"> **[Bingqing Peng]()** is a senior engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. She received B.S. from Nanjing University with major in Mathematics and M.S in Statistics from University of Washington Seattle. Her research is focus on time series analysis and machine learning, with industrial applications in renewable energy forecasting and weather forecasting.
 
 
 

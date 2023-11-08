@@ -95,10 +95,10 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
 
 
 
-<img align="left" src="files/TianZhou.jpeg" width="180" > **[Weiqi Chen]()** is an engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. He received B.S. from Xi'an Jiaotong University and M.S. from Zhejiang University in computer Science an Technology. His research interest is on time series forecasting and anomaly detection with related applications, e.g., electricity forecasting and weather prediction.
+<img align="left" src="files/weiqi.jpeg" width="180" > **[Weiqi Chen]()** is an engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. He received B.S. from Xi'an Jiaotong University and M.S. from Zhejiang University in computer Science an Technology. His research interest is on time series forecasting and anomaly detection with related applications, e.g., electricity forecasting and weather prediction.
 
 
-<img align="left" src="files/TianZhou.jpeg" width="180" > **[Bingqing Peng]()** is a senior engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. She received B.S. from Nanjing University with major in Mathematics and M.S in Statistics from University of Washington Seattle. Her research is focus on time series analysis and machine learning, with industrial applications in renewable energy forecasting and weather forecasting.
+<img align="left" src="files/bingqing.jpeg" width="180" > **[Bingqing Peng]()** is a senior engineer at DAMO Academy Decision Intelligence Lab, Alibaba Group. She received B.S. from Nanjing University with major in Mathematics and M.S in Statistics from University of Washington Seattle. Her research is focus on time series analysis and machine learning, with industrial applications in renewable energy forecasting and weather forecasting.
 
 
 
@@ -106,7 +106,7 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
 
 
 ## Related Tutorial
-- TBD
+- KDD 2022 Tutorial: Robust Time Series Analysis and Applications: An Industrial Perspective [[Link]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6-pWt_hGW24fe4IIRD8g4PNbhnPT-B-QCUL1m4aUXVw'></script>
 

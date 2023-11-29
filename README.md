@@ -1,11 +1,11 @@
 Welcome to our ICDM’23 Tutorial, “Robust Time Series Analysis and Applications: A Interdisciplinary Approach”.
 
 
-
 ##  Tutorial Date, Time, Location
-- **Date**: Sunday, 12/xx/2023 (mm/dd/yyyy)
-- **Time**: TBD
-- **Location**: Room TBD, Shang, China
+- **Date**: Sunday, 12/03/2023 (mm/dd/yyyy)
+- **Time**: 14:30-17:30
+- **Location**: Room 6, Shanghai, China
+- **Remote Zoom Meeting Information**: Zoom ID: 91649466943, Password: 202312
 
 
 ## Tutorial Description

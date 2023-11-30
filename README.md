@@ -107,8 +107,8 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
 
 
 ## Related Tutorial
-- KDD 2022 Tutorial: Robust Time Series Analysis and Applications: An Industrial Perspective [[Link]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
+- KDD 2022 Tutorial: Robust Time Series Analysis and Applications: An Industrial Perspective [[Link]](https://github.com/DAMO-DI-ML/KDD2022-Tutorial-Time-Series)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6-pWt_hGW24fe4IIRD8g4PNbhnPT-B-QCUL1m4aUXVw'></script>
+
 
 

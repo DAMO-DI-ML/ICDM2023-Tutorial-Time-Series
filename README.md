@@ -32,7 +32,7 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
 
    - Optimization Algorithms: Alternating Direction Method of Multipliers (ADMM), Majorize-Minimization (MM) Algorithm
 
-   - Deep Learning: RNN, CNN, GNN, SSL, Transformer, Data Augmentation, and LLMs
+   - Deep Learning: RNN, CNN, Transformer, Data Augmentation, and LLMs
 
    - Explainable Artificial Intelligence (XAI): GAM, LIME, SHAP, Integrated Gradient, PINN
    
@@ -43,10 +43,11 @@ Specifically, we organize the tutorial in a bottom-up framework. Firstly, We pre
    - Time Series Similarity
 
 3. Robust Time Series Applications and Practices 
-   - Forecasting: Statistical Models, Tree Models, Deep Ensemble, Transformer, XAI and LLMs for Forecasting
+   - Forecasting: Statistical Models, Tree Models, Deep Ensemble, Transformer, and LLMs for Forecasting
    - Autoscaling (from Forecasting to Decision-Making): Query Modeling, Scaling Decision
    - Anomaly Detection: Decomposition Model, Deep State Space Model, Graph Model, Transformer
    - Fault Cause Localization (from Anomaly Detection to Localization): Rule Set Learning, Root Cause Analysis
+   - XAI for Time Series Data
 
 4. Further Reading:
    - AI for Time Series (AI4TS) Papers, Tutorials, and Surveys [\[GitHub link\]](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)
